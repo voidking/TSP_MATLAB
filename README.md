@@ -1,6 +1,12 @@
 # TSP问题
 旅行商问题，即TSP问题（Travelling Salesman Problem）又译为旅行推销员问题、货郎担问题，是数学领域中著名问题之一。假设有一个旅行商人要拜访n个城市，他必须选择所要走的路径，路径的限制是每个城市只能拜访一次，而且最后要回到原来出发的城市。路径的选择目标是要求得的路径路程为所有路径之中的最小值。
 
+# TSPLIB
+ 
+http://elib.zib.de/pub/mp-testdata/tsp/tsplib/tsplib.html    
+
+http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/
+
 # 遗传算法
 遗传算法（Genetic Algorithms），是模拟达尔文生物进化论的自然选择和遗传学机理的生物进化过程的计算模型，是一种通过模拟自然进化过程搜索最优解的方法。   
 http://www.voidking.com/2017/03/29/disc-genetic-programming/   
